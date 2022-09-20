@@ -3,7 +3,7 @@
 <html>
   <head>
 The Snake Game is a simple game you can make using the basics of JavaScript and HTML. <br>
-The basic goal is to navigate a snake and eat as many apples as possible without touching the walls or the snake’s body.
+The basic goal is to navigate a snake and eat as many apples as possible without touching the walls or the snake’s body.<br>
   </head>
 <body>
 Tools Used-----<br>
